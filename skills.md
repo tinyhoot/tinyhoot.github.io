@@ -1,18 +1,18 @@
 ---
 title: Skills
 ---
-## Programming Languages
+#### Programming Languages
 - Python
 - C#
 - Lua
 
-## Human Languages
+#### Human Languages
 - 🇨🇭 German
 - 🇬🇧 English
 - 🇫🇷 French
 - 🇯🇵 Japanese
 
-## Other Tools
+#### Other Tools
 - git
 - GitHub
 - GitLab
