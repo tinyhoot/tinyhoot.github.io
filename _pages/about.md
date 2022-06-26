@@ -29,6 +29,6 @@ I'm in the middle of my Master's Degree in Digital Linguistics at the University
 </div>
 
 <script>
-    GitHubCalendar(".calendar", "your-username");
+    GitHubCalendar(".calendar", "tinyhoot");
 </script>
 
