@@ -6,7 +6,6 @@ img:
 importance: 1
 category: Fun
 redirect: https://github.com/tinyhoot/RetroArchML
-date:
 github:
   user: tinyhoot
   repo: RetroArchML
