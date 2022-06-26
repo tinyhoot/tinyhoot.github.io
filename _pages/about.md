@@ -18,3 +18,17 @@ I'm a student from Switzerland with a strong passion for NLP, sociolinguistics, 
 
 I'm in the middle of my Master's Degree in Digital Linguistics at the University of Zurich and aim to finish in 2023. For now, I hope to be able to contribute my skills and knowledge in an internship or other industry position.
 
+### Activity
+
+<!-- Github activity calendar -->
+<script src="/assets/js/github-calendar.min.js"></script>
+
+<!-- Prepare a container for your calendar. -->
+<div class="calendar">
+    Loading the data just for you.
+</div>
+
+<script>
+    GitHubCalendar(".calendar", "your-username");
+</script>
+
