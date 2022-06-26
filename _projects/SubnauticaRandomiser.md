@@ -6,7 +6,5 @@ img:
 importance: 1
 category: fun
 redirect: https://github.com/tinyhoot/SubnauticaRandomiser
-github:
-  user: tinyhoot
-  repo: SubnauticaRandomiser
+github: https://github.com/tinyhoot/SubnauticaRandomiser
 ---
