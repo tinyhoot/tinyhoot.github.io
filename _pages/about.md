@@ -21,7 +21,11 @@ I'm in the middle of my Master's Degree in Digital Linguistics at the University
 ### Activity
 
 <!-- Github activity calendar -->
-<script src='/assets/js/github-calendar.min.js' type='text/html'></script>
+<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
+<link
+   rel="stylesheet"
+   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
+/>
 
 <!-- Prepare a container for your calendar. -->
 <div class="calendar">
@@ -29,6 +33,6 @@ I'm in the middle of my Master's Degree in Digital Linguistics at the University
 </div>
 
 <script>
-    GitHubCalendar(".calendar", "tinyhoot");
+    GitHubCalendar(".calendar", "tinyhoot", { responsive: true });
 </script>
 
