@@ -21,11 +21,7 @@ I'm in the middle of my Master's Degree in Digital Linguistics at the University
 ### Activity
 
 <!-- Github activity calendar -->
-<script src="https://unpkg.com/github-calendar@latest/dist/github-calendar.min.js"></script>
-<link
-   rel="stylesheet"
-   href="https://unpkg.com/github-calendar@latest/dist/github-calendar-responsive.css"
-/>
+<script src="/assets/js/github-calendar.min.js"></script>
 
 <!-- Prepare a container for your calendar. -->
 <div class="calendar">
